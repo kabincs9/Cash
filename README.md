@@ -4,7 +4,7 @@
 ![CS50x](https://img.shields.io/badge/CS50x-Week%206-orange.svg)
 ![Algorithm](https://img.shields.io/badge/Algorithm-Greedy-brightgreen.svg)
 
-A clean and simple Python program that calculates the **minimum number of coins** needed to make change for a given amount in dollars.
+A clean Python program that calculates the **minimum number of coins** needed to make change for a given amount in dollars.
 
 ## ✨ Overview
 
@@ -34,35 +34,11 @@ Output:
 text6
 (Explanation: 4 quarters + 2 dimes = 6 coins)
 📊 More Examples
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Amount,Minimum Coins,Breakdown
+0.41,4,1Q + 1D + 1N + 1P
+9.75,6,4Q + 2D
+1.00,4,4Q
+0.00,0,No coins
 
 AmountMinimum CoinsBreakdown0.4141Q + 1D + 1N + 1P9.7564Q + 2D1.0044Q0.000No coins
 🧠 What I Learned
