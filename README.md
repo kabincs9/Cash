@@ -23,7 +23,7 @@ This program asks the user how much change is owed (in dollars) and then outputs
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cash.git
+git clone https://github.com/kabincs9/cash.git
 cd cash
 
 # Run the program
